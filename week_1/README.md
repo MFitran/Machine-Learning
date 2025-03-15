@@ -34,7 +34,7 @@ Proyek ini mencakup beberapa konsep penting dalam data science dan machine learn
 - Evaluasi dilakukan untuk menentukan model terbaik berdasarkan metrik performa.
 
 ## Penulis
-Muhammad Fitran Ramadhan
+Muhammad Fitran Ramdhan - Mahasiswa Teknik Komputer, Telkom University
 
 ## Lisensi
 Proyek ini dibuat untuk tujuan edukasi dan tidak memiliki lisensi khusus.
