@@ -1,4 +1,4 @@
-# README - Proyek Analisis Data dan Machine Learning
+# Proyek Analisis Data dan Machine Learning
 
 ## Ringkasan Proyek
 Proyek ini mencakup analisis data dan penerapan model machine learning untuk regresi dan klasifikasi. Tujuannya adalah memahami teknik pemrosesan data, eksplorasi data, dan penerapan model prediktif. Proyek ini dibagi menjadi dua bagian utama:
