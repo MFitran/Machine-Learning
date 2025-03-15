@@ -38,7 +38,7 @@ Dataset yang digunakan adalah **Boston House Prices**, yang berasal dari Scikit-
 Notebook ini akan menampilkan hasil prediksi harga rumah dan evaluasi performa model regresi. Analisis lebih lanjut dapat dilakukan dengan mencoba berbagai teknik preprocessing dan model regresi lainnya.
 
 ## Kontributor
-Muhammad Fitran Ramdhan - Mahasiswa Teknik Komputer, Telkom University
+Muhammad Fitran Ramadhan - Mahasiswa Teknik Komputer, Telkom University
 
 ## Lisensi
 Tugas ini dibuat untuk kepentingan akademik dalam mata kuliah Machine Learning dan tidak diperuntukkan untuk penggunaan komersial.
