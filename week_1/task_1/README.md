@@ -45,7 +45,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 - Metrik evaluasi kinerja digunakan untuk membandingkan berbagai model dan memilih yang paling akurat.
 
 ## Penulis
-Muhammad Fitran Ramdhan - Mahasiswa Teknik Komputer, Telkom University
+Muhammad Fitran Ramadhan - Mahasiswa Teknik Komputer, Telkom University
 
 ## Lisensi
 Proyek ini dibuat untuk tujuan edukasi dan tidak memiliki lisensi khusus.
