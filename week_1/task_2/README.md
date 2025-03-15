@@ -1,5 +1,4 @@
-
-# README - Klasifikasi Penyakit Jantung
+# Klasifikasi Penyakit Jantung
 
 ## Ringkasan Proyek
 Proyek ini berfokus pada analisis klasifikasi penyakit jantung menggunakan model machine learning. Dua pendekatan dilakukan, yaitu klasifikasi biner dan klasifikasi multikelas, dengan tujuan memprediksi kondisi kesehatan berdasarkan fitur pasien. Analisis dilakukan menggunakan Jupyter Notebook (`classification_heartdisease.ipynb` dan `classification_heartdisease_multiclass.ipynb`), dengan dataset `HeartDisease.csv`.
