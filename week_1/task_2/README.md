@@ -46,7 +46,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 - Model terbaik dipilih berdasarkan evaluasi metrik performa.
 
 ## Penulis
-Muhammad Fitran Ramadhan
+Muhammad Fitran Ramadhan - Mahasiswa Teknik Komputer, Telkom University
 
 ## Lisensi
 Proyek ini dibuat untuk tujuan edukasi dan tidak memiliki lisensi khusus.
