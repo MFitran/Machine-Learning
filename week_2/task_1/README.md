@@ -1,4 +1,4 @@
-# README: Tugas Machine Learning
+# Tugas Machine Learning
 
 ## Deskripsi
 File ini berisi notebook Jupyter yang digunakan untuk menerapkan regresi pada dataset Boston House Prices. Tugas ini merupakan bagian dari mata kuliah Machine Learning dan bertujuan untuk memahami serta mengimplementasikan algoritma regresi dalam memprediksi harga rumah berdasarkan fitur yang tersedia.
