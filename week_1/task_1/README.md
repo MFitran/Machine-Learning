@@ -1,4 +1,4 @@
-# README - Analisis Regresi pada Data Automobile
+# Analisis Regresi pada Data Automobile
 
 ## Ringkasan Proyek
 Proyek ini berfokus pada analisis regresi terhadap data otomotif untuk memprediksi atribut yang relevan berdasarkan fitur yang diberikan. Analisis dilakukan menggunakan Jupyter Notebook (`regresion_automobile.ipynb`), dengan dataset `Automobile.csv`.
